@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_514426_nowfitn_0.user" name="x_514426_nowfitn_0.user">f4aec29297b631103e91b277f053af5c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 11:18:43</sys_created_on>
+        <sys_id>f0aec29297b631103e91b277f053af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f4aec29297b631103e91b277f053af5c</sys_name>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f0aec29297b631103e91b277f053af5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 11:18:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
