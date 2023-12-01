@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3030121697b631103e91b277f053af13" label="Competitor" max_length="40" name="x_514426_nowfitn_0_competitor" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element label="Garmin ID" max_length="1024" name="garmin_id" type="url"/>
+        <element label="Last name" max_length="40" name="last_name" type="string"/>
+        <element label="Profile pic" max_length="40" name="profile_pic" type="user_image"/>
+        <element label="Strava ID" max_length="1024" name="strava_id" type="url"/>
+        <element label="Weight (lbs)" max_length="40" name="weight_lbs" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f529e9697b631103e91b277f053af2e" extends="task" label="Activity" max_length="40" name="x_514426_nowfitn_0_activity" type="collection">
+        <element label="Activity subtype" max_length="40" name="activity_subtype" type="string"/>
+        <element label="Activity type" max_length="40" name="activity_type" type="string"/>
+        <element label="Distance (km)" max_length="40" name="distance_km" type="integer"/>
+        <element label="Elevation (m)" max_length="40" name="elevation_m" type="integer"/>
+        <element label="Map" max_length="40" name="map" type="user_image"/>
+        <element label="Time" max_length="40" name="time" type="glide_time"/>
+    </element>
+</database>
