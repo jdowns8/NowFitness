@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="DELETE">
+        <active>true</active>
+        <category>cms</category>
+        <format/>
+        <height/>
+        <image>740cf656977a31103e91b277f053afd4</image>
+        <name>PostIt.jpg</name>
+        <size_bytes>960</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:36:40</sys_created_on>
+        <sys_id>75eb72d6977a31103e91b277f053afc4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>PostIt.jpg</sys_name>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>db_image_75eb72d6977a31103e91b277f053afc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:37:10</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="DELETE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash>444d8e99d7dcc8abce684fb2cec7c7f4b93444809ad02aaf78fe42d80225d477</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>960</size_bytes>
+        <size_compressed>553</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:36:57</sys_created_on>
+        <sys_id>740cf656977a31103e91b277f053afd4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:36:57</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>75eb72d6977a31103e91b277f053afc4</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="740cf656977a31103e91b277f053afd4">740cf656977a31103e91b277f053afd4</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:36:57</sys_created_on>
+        <sys_id>b40cf656977a31103e91b277f053afd4</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>fZPbbtswDIbv+xSEetNeiNb5MMQtUAzr5S62PIAbK4kAxw5sNWn39KOTDD1gqAHbJE3++kTKi/uXXQeHNE556GsmUTBI/Wpoc7+p2fL3Dx7Y/d3VYjps4Jjbsq2ZNwZFZLBNebMtb/4hp+PD8FIzAQLOQWMCGEGStEg/1Wxbyv5bVR2PRzxqHMZNpYQQFYmzuytYtGk90RsW69yVNEJua/Y0f5lD6bF5nqbc9A/d8whTab+nQ27KCduicUI6Vp2qq3P5ye5yn5rxcWzanPpyUmwIR9bMeY/CkK1qZqRFHxi8UtwKMiXZFFeREjaX4mWfC+3heUrjr32zSj/75ZQudFMZ9jA/+GrohrFm12ufVpGWGtbrKVGXxBnuv6kuNaF9S0WpjZBf5NsUwztpNNZ580V+SG18rx9E1F/lf9KX//r6sZnzxKrLyBb7pmyhjE0/rYdxV7NdU8b8ckPnSWkJKIRRNjrgs6VtUIBxvkBFjXPcKYde3TKgAe2klOgtOC9QKUqRqB2XSBIaLAZnJahgUMWJKxVIiWsMWjhON5rAaYJKq5VHbTwnES0tRKRqxVVQKM1H7w+D84mh4Y7dzfUTYQw04Vxe5+YaH/SpA+dNzoBGKNIG7ZFQtCCUAJJ4nCJMJS94gfCcQusI2ntJy8WAJnI6bNb6FffkRMO1Q+EkN2h91FwRr1AfvTNgd8FrbmeaxfzX3F39BRFAu9XAAwAA</data>
+        <length>724</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="740cf656977a31103e91b277f053afd4">740cf656977a31103e91b277f053afd4</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:36:57</sys_created_on>
+        <sys_id>380cf656977a31103e91b277f053afd4</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NowFitness">ecaec29297b631103e91b277f053af4f</application>
+        <file_path/>
+        <instance_id>5a56fe091b6f24107d9d2f8dee4bcbaa</instance_id>
+        <instance_name>dev111824</instance_name>
+        <name>db_image_75eb72d6977a31103e91b277f053afc4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image"><db_image action="INSERT_OR_UPDATE"><active>true</active><category>cms</category><format/><height/><image>740cf656977a31103e91b277f053afd4</image><name>PostIt.jpg</name><size_bytes>960</size_bytes><sys_class_name>db_image</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-01 14:36:40</sys_created_on><sys_id>75eb72d6977a31103e91b277f053afc4</sys_id><sys_mod_count>3</sys_mod_count><sys_name>PostIt.jpg</sys_name><sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package><sys_policy/><sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope><sys_update_name>db_image_75eb72d6977a31103e91b277f053afc4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-01 14:37:10</sys_updated_on><thumbnail/><width/></db_image><sys_attachment action="INSERT_OR_UPDATE"><average_image_color/><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/svg+xml</content_type><file_name>image</file_name><hash>444d8e99d7dcc8abce684fb2cec7c7f4b93444809ad02aaf78fe42d80225d477</hash><image_height/><image_width/><size_bytes>960</size_bytes><size_compressed>553</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-01 14:36:57</sys_created_on><sys_id>740cf656977a31103e91b277f053afd4</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-12-01 14:36:57</sys_updated_on><table_name>ZZ_YYdb_image</table_name><table_sys_id>75eb72d6977a31103e91b277f053afc4</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="image" sys_id="740cf656977a31103e91b277f053afd4">740cf656977a31103e91b277f053afd4</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-01 14:36:57</sys_created_on><sys_id>b40cf656977a31103e91b277f053afd4</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>fZPbbtswDIbv+xSEetNeiNb5MMQtUAzr5S62PIAbK4kAxw5sNWn39KOTDD1gqAHbJE3++kTKi/uXXQeHNE556GsmUTBI/Wpoc7+p2fL3Dx7Y/d3VYjps4Jjbsq2ZNwZFZLBNebMtb/4hp+PD8FIzAQLOQWMCGEGStEg/1Wxbyv5bVR2PRzxqHMZNpYQQFYmzuytYtGk90RsW69yVNEJua/Y0f5lD6bF5nqbc9A/d8whTab+nQ27KCduicUI6Vp2qq3P5ye5yn5rxcWzanPpyUmwIR9bMeY/CkK1qZqRFHxi8UtwKMiXZFFeREjaX4mWfC+3heUrjr32zSj/75ZQudFMZ9jA/+GrohrFm12ufVpGWGtbrKVGXxBnuv6kuNaF9S0WpjZBf5NsUwztpNNZ580V+SG18rx9E1F/lf9KX//r6sZnzxKrLyBb7pmyhjE0/rYdxV7NdU8b8ckPnSWkJKIRRNjrgs6VtUIBxvkBFjXPcKYde3TKgAe2klOgtOC9QKUqRqB2XSBIaLAZnJahgUMWJKxVIiWsMWjhON5rAaYJKq5VHbTwnES0tRKRqxVVQKM1H7w+D84mh4Y7dzfUTYQw04Vxe5+YaH/SpA+dNzoBGKNIG7ZFQtCCUAJJ4nCJMJS94gfCcQusI2ntJy8WAJnI6bNb6FffkRMO1Q+EkN2h91FwRr1AfvTNgd8FrbmeaxfzX3F39BRFAu9XAAwAA</data><length>724</length><position>1</position><sys_attachment display_value="image" sys_id="740cf656977a31103e91b277f053afd4">740cf656977a31103e91b277f053afd4</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-01 14:36:57</sys_created_on><sys_id>380cf656977a31103e91b277f053afd4</sys_id></sys_attachment_doc></record_update>]]></payload>
+        <payload_hash>0</payload_hash>
+        <record_name>PostIt.jpg</record_name>
+        <reverted_from/>
+        <source>7e8fca5297b631103e91b277f053affe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:37:10</sys_created_on>
+        <sys_id>730c76d6977a31103e91b277f053af19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c25cfe4f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:37:10</sys_updated_on>
+        <type>Images</type>
+        <update_guid>3b0c76d6307a31105e8fec1d5fe84318</update_guid>
+        <update_guid_history>3b0c76d6307a31105e8fec1d5fe84318:-1679923261,f00cf2d6c37a31108c553adf138703b7:326781777,f80cf2d65f7a311015144442e59ddcb3:-34390755,3c0cf2d6077a3110696b8c07bab50ab0:-966700821,a0fb72d60a7a3110cb28cdafc4cebbcb:405833197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PostIt.jpg">638c72d6977a31103e91b277f053af6e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:39:20</sys_created_on>
+        <sys_db_object display_value="" name="db_image">db_image</sys_db_object>
+        <sys_id>2e7cd2386cef4c0abd1ab3a7c76f4ea4</sys_id>
+        <sys_metadata>75eb72d6977a31103e91b277f053afc4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PostIt.jpg</sys_name>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_scope_delete display_value="">13b2f90a045840699f86fa226e3e8971</sys_scope_delete>
+        <sys_update_name>db_image_75eb72d6977a31103e91b277f053afc4</sys_update_name>
+        <sys_update_version display_value="db_image_75eb72d6977a31103e91b277f053afc4">730c76d6977a31103e91b277f053af19</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:39:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

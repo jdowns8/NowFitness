@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="NowFitness Portal">5af816de97b631103e91b277f053afe7</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:32:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>74eabe56977a31103e91b277f053af67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>sys_ux_page_property_74eabe56977a31103e91b277f053af67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:32:03</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_514426_nowfitn_0.5af816de97b631103e91b277f053afe7.root.chrome_toolbar</unique_name>
+        <value>[]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=74eabe56977a31103e91b277f053af67"/>
+</record_update>

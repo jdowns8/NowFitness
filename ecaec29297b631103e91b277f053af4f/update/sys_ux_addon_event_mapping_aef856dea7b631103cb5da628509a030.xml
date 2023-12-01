@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Reject Mapping</name>
+        <parent_macroponent display_value="Landing Page">2ef856de82b631107a8c5dc61485d232</parent_macroponent>
+        <source_component/>
+        <source_da display_value="reject">62f856de0cb631100428ead92fd8ce39</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-01 12:03:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aef856dea7b631103cb5da628509a030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_aef856dea7b631103cb5da628509a030</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 12:03:57</sys_updated_on>
+        <target_event display_value="My tasks reject">a2f856debfb63110c299fd172c092c30</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-01 12:04:03</sys_created_on>
+        <sys_id>f4091ade97b631103e91b277f053af36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_514426_nowfitn_0.user</sys_name>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_security_acl/>
+        <sys_update_name>sys_security_acl_role_f4091ade97b631103e91b277f053af36</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 12:04:03</sys_updated_on>
+        <sys_user_role display_value="x_514426_nowfitn_0.user" name="x_514426_nowfitn_0.user">f4aec29297b631103e91b277f053af5c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

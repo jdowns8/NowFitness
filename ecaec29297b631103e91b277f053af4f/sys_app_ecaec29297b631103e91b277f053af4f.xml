@@ -13,7 +13,7 @@
         <license_category>none</license_category>
         <license_definition/>
         <license_model>none</license_model>
-        <logo/>
+        <logo>1525d25a97b631103e91b277f053af80</logo>
         <menu/>
         <name>NowFitness</name>
         <private>false</private>
@@ -31,9 +31,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-01 11:18:42</sys_created_on>
         <sys_id>ecaec29297b631103e91b277f053af4f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-01 11:18:42</sys_updated_on>
+        <sys_updated_on>2023-12-01 11:47:09</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -43,4 +43,43 @@
         <version>1.0.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=ecaec29297b631103e91b277f053af4f"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>undraw_fitness_stats_sht6.svg</file_name>
+        <hash>43188ebb4e993705bc448d26c9f6febbca64fbb2c6d96320f98028f9d911109b</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>6863</size_bytes>
+        <size_compressed>1954</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 11:47:09</sys_created_on>
+        <sys_id>1525d25a97b631103e91b277f053af80</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 11:47:10</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>ecaec29297b631103e91b277f053af4f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="undraw_fitness_stats_sht6.svg" sys_id="1525d25a97b631103e91b277f053af80">1525d25a97b631103e91b277f053af80</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 11:47:09</sys_created_on>
+        <sys_id>5525d25a97b631103e91b277f053af80</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2592</length>
+        <position>1</position>
+        <sys_attachment display_value="undraw_fitness_stats_sht6.svg" sys_id="1525d25a97b631103e91b277f053af80">1525d25a97b631103e91b277f053af80</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 11:47:09</sys_created_on>
+        <sys_id>d525d25a97b631103e91b277f053af80</sys_id>
+    </sys_attachment_doc>
 </record_update>

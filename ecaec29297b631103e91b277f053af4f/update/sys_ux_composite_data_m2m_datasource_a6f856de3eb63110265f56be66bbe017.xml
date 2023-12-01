@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">2ef856de81b6311005e40fa5f59c871a</dataset>
+        <datasource display_value="My Request - Task Datasource">e6f856defab631104cab8901420c0819</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-01 12:03:57</sys_created_on>
+        <sys_id>a6f856de3eb63110265f56be66bbe017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_a6f856de3eb63110265f56be66bbe017</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 12:03:57</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

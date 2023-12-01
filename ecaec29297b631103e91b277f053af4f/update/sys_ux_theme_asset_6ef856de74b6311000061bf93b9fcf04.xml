@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>now-logo-dark</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-01 12:03:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ef856de74b6311000061bf93b9fcf04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now-logo-dark</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_6ef856de74b6311000061bf93b9fcf04</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 12:03:56</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ServiceNow_logo_GG.png</file_name>
+        <hash>3adf8faeb55a761e53bd75370f757907171b0f9e7305c8663dcddcc8a297871c</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>0</size_bytes>
+        <size_compressed>9023</size_compressed>
+        <state>available</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-01 12:03:56</sys_created_on>
+        <sys_id>22f856de40b631105037d04f1aa3f405</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2023-12-01 12:13:22</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>6ef856de74b6311000061bf93b9fcf04</table_sys_id>
+    </sys_attachment>
+</record_update>

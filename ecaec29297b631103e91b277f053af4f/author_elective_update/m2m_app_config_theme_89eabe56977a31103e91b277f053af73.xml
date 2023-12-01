@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:32:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>89eabe56977a31103e91b277f053af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>m2m_app_config_theme_89eabe56977a31103e91b277f053af73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:32:03</sys_updated_on>
+        <theme/>
+        <ux_app_configuration display_value="Custom Portal App Config">5ef816de97b631103e91b277f053afe7</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NowFitness">ecaec29297b631103e91b277f053af4f</application>
+        <file_path/>
+        <instance_id>5a56fe091b6f24107d9d2f8dee4bcbaa</instance_id>
+        <instance_name>dev111824</instance_name>
+        <name>m2m_app_config_theme_89eabe56977a31103e91b277f053af73</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-01 14:32:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>89eabe56977a31103e91b277f053af73</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package><sys_policy/><sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope><sys_update_name>m2m_app_config_theme_89eabe56977a31103e91b277f053af73</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-01 14:32:03</sys_updated_on><theme/><ux_app_configuration display_value="Custom Portal App Config">5ef816de97b631103e91b277f053afe7</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1148433853</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7e8fca5297b631103e91b277f053affe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:32:03</sys_created_on>
+        <sys_id>41eabe56977a31103e91b277f053af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c25cb362f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:32:03</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>85eabe56f77a3110b30293a16be4c075</update_guid>
+        <update_guid_history>85eabe56f77a3110b30293a16be4c075:1148433853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">03eafa56977a31103e91b277f053af2f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:32:12</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>6fcf93cafa7c43d88223b7e11a2a0369</sys_id>
+        <sys_metadata>89eabe56977a31103e91b277f053af73</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_scope_delete display_value="">13b2f90a045840699f86fa226e3e8971</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_89eabe56977a31103e91b277f053af73</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_89eabe56977a31103e91b277f053af73">41eabe56977a31103e91b277f053af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 14:32:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

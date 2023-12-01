@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">66f856defcb6311070b4924decb66c1b</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">66f856deb1b63110ea285df36ab34f18</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-01 12:03:57</sys_created_on>
+        <sys_id>26f856de10b63110c93bc29e3b3c3b19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NowFitness" source="x_514426_nowfitn_0">ecaec29297b631103e91b277f053af4f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowFitness">ecaec29297b631103e91b277f053af4f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_26f856de10b63110c93bc29e3b3c3b19</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-01 12:03:57</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
